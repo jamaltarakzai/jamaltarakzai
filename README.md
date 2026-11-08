@@ -40,7 +40,7 @@ A 14-week program in **PX4 / ArduPilot integration, flight-log analysis and flig
 **Hands-on:** flight controller, GNSS and datalink fault finding · component-level repair and soldering · firmware updates and calibration · payload integration and calibration · maintenance programs, logs and spare-parts control · technician and operator training (200+ trained).
 
 ### Certifications
-GACA UAS Operator (Saudi Arabia) · EASA UAS Open A1/A3, A2 & STS · PMP® · NEBOSH IGC · IOSH Managing Safely
+GACA UAS Operator (Saudi Arabia) · EASA UAS Open Category A1/A3 & A2 · PMP® · NEBOSH IGC · IOSH Managing Safely
 
 ---
 <p align="center"><i>Repair cases are written without client names, locations, serial numbers or restricted documents.</i></p>
