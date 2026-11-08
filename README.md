@@ -29,17 +29,16 @@ A 14-week program in **PX4 / ArduPilot integration, flight-log analysis and flig
 
 ➡️ **Portfolio:** [uav-integration-portfolio](https://github.com/jamaltarakzai/uav-integration-portfolio)
 
-### Tools and skills
-![PX4](https://img.shields.io/badge/PX4-autopilot-1F5F8B)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-QuadPlane-1F5F8B)
-![MAVLink](https://img.shields.io/badge/MAVLink-protocol-1F5F8B)
-![QGroundControl](https://img.shields.io/badge/QGroundControl-GCS-2A7049)
-![Mission Planner](https://img.shields.io/badge/Mission%20Planner-GCS-2A7049)
-![Gazebo](https://img.shields.io/badge/Gazebo-SITL-B5650F)
-![C++](https://img.shields.io/badge/C%2B%2B-learning-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-GitHub-F05032?logo=git&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-Autopilot-1F5F8B?style=flat-square)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-QuadPlane-1F5F8B?style=flat-square)
+![MAVLink](https://img.shields.io/badge/MAVLink-Protocol-1F5F8B?style=flat-square)
+![QGroundControl](https://img.shields.io/badge/QGroundControl-GCS-2A7049?style=flat-square)
+![Mission Planner](https://img.shields.io/badge/Mission_Planner-GCS-2A7049?style=flat-square)
+![Gazebo](https://img.shields.io/badge/Gazebo-SITL-B5650F?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Hands-on:** flight controller, GNSS and datalink fault finding · component-level repair and soldering · firmware updates and calibration · payload integration and calibration · maintenance programs, logs and spare-parts control · technician and operator training (200+ trained).
 
