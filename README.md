@@ -18,7 +18,7 @@
 - **Payloads:** LiDAR, magnetometer, hyperspectral, thermal, photogrammetry, methane detection.
 
 ### What I am building in public (Nov 2026 – Feb 2027)
-A 14-week program in **PX4 / ArduPilot integration, flight-log analysis and flight test planning**, with a 60 kg twin-boom quadplane VTOL as the target aircraft. Every week ends with something on GitHub.
+A 14-week program in **PX4 / ArduPilot integration, flight-log analysis and flight test planning**, with a 600 kg twin-boom quadplane VTOL as the target aircraft. Every week ends with something on GitHub.
 
 | | Case study | Status |
 |---|---|---|
