@@ -35,7 +35,7 @@ A 14-week in **PX4 / ArduPilot integration, flight-log analysis and flight test 
 **Ground stations:** QGroundControl · Mission Planner
 **Protocols & interfaces:** MAVLink · UART · I2C · CAN / DroneCAN
 **Simulation & logs:** Gazebo SITL · Flight Review · PlotJuggler
-**Software:** C++ (learning) · Python · Linux (Ubuntu) · Git / GitHub
+**Software:** C++ · Python · Linux (Ubuntu) · Git / GitHub
 
 **Hands-on:** flight controller, GNSS and datalink fault finding · component-level repair and soldering · firmware updates and calibration · payload integration and calibration · maintenance programs, logs and spare-parts control · technician and operator training (200+ trained).
 
